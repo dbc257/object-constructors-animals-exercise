@@ -1,0 +1,21 @@
+{
+  "name": "module-10-animal-classes",
+  "version": "1.0.0",
+  "description": "In this exercise, you will be using ES6 Classes to build a Node.js script that utilizes classes to create new objects.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "watch": "nodemon script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigitalCraftsStudents/module-10-animal-classes/issues"
+  },
+  "homepage": "https://github.com/DigitalCraftsStudents/module-10-animal-classes#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
